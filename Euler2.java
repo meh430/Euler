@@ -1,4 +1,4 @@
-public class Main
+public class Euler2
 {
 	public static void main(String[] args) {
 	    long t1 = 1, t2 = 2, sum = 0, sumev = 0;
