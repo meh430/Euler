@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class Euler3 {
     public static void main (String[]args) {
         ArrayList<Long> factors = new ArrayList<Long>();
 		long limit = 600851475143L;
