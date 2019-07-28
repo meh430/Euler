@@ -1,4 +1,4 @@
-public class Main {
+public class Euler9 {
 	public static void main (String[]args) {
 		int c = 0;
 		for (int a = 3; a < 500; a+=3) {
