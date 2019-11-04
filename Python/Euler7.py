@@ -13,6 +13,5 @@ num = 1
 while (numPrimes<10001):
     num = num + 2
     if(check_prime(num)):
-        numPrimes = numPrimes + 1
-    
+        numPrimes = numPrimes + 1    
 print(num)
