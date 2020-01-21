@@ -1,6 +1,5 @@
 n = 2000000
 primes = [False]*(n+1)
-print(primes)
 for i in range(0, len(primes)):
     primes[i] = True
 
